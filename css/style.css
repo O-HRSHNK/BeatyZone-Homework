@@ -96,7 +96,7 @@ ul {
 /* Title */
 
 .section-title {
-  font-family: Play;
+  font-family: "Play", sans-serif;
   font-size: 64px;
   font-weight: 700;
   line-height: 1.1;
@@ -109,7 +109,7 @@ ul {
 /* Hero-section */
 .hero-title {
   color: var(--color-primary-light);
-  font-family: Play;
+  font-family: "Play", sans-serif;
   font-size: 140px;
   font-weight: 700;
   line-height: 0.8;
@@ -130,7 +130,7 @@ ul {
 
 /* About-us Section */
 .about-us-title {
-  font-family: Play;
+  font-family: "Play", sans-serif;
   font-size: 64px;
   font-weight: 700;
   line-height: 1.1;
